@@ -1,5 +1,5 @@
 # Local Food Waste Management System
-## 🌐 Live Web App: [Open app in new tab](https://meet-management-system.streamlit.app/)
+## 🌐 Live Web App: [Open app in new tab](https://mit-management-system.streamlit.app/)
 
 ---
 
